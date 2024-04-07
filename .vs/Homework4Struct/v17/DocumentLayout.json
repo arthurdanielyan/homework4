@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|solutionrelative:Homework4Struct\\ex5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|solutionrelative:Homework4Struct\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|solutionrelative:Homework4Struct\\ex4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|solutionrelative:Homework4Struct\\ex3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|solutionrelative:Homework4Struct\\ex1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BD64339-E1AB-4C04-8B2C-E80843179673}|Homework4Struct\\Homework4Struct.vcxproj|solutionrelative:Homework4Struct\\ex2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\main.c",
+              "RelativeDocumentMoniker": "Homework4Struct\\main.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\main.c",
+              "RelativeToolTip": "Homework4Struct\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-07T15:31:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex5.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex5.c",
+              "RelativeDocumentMoniker": "Homework4Struct\\ex5.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex5.c",
+              "RelativeToolTip": "Homework4Struct\\ex5.c",
+              "ViewState": "AQIAABMAAAAAAAAAAAD4vx0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-07T16:29:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex4.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex4.c",
+              "RelativeDocumentMoniker": "Homework4Struct\\ex4.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex4.c",
+              "RelativeToolTip": "Homework4Struct\\ex4.c",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-07T15:31:33.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex3.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex3.c",
+              "RelativeDocumentMoniker": "Homework4Struct\\ex3.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex3.c",
+              "RelativeToolTip": "Homework4Struct\\ex3.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-07T14:27:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex2.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex2.c",
+              "RelativeDocumentMoniker": "Homework4Struct\\ex2.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex2.c",
+              "RelativeToolTip": "Homework4Struct\\ex2.c",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-07T13:41:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex1.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex1.c",
+              "RelativeDocumentMoniker": "Homework4Struct\\ex1.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework4Struct\\Homework4Struct\\Homework4Struct\\ex1.c",
+              "RelativeToolTip": "Homework4Struct\\ex1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-07T12:41:00.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
